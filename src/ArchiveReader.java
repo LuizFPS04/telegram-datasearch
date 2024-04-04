@@ -6,25 +6,29 @@ public class ArchiveReader {
     public static void ReadFile() {
         try {
             BufferedReader bf = new BufferedReader(new FileReader(
-                    "C:/Users/grafi/Desktop/Telegram Data/telegram-datasearch/docs/telegram_corpus.txt"));
+                    "docs/oi.txt"));
             String line = bf.readLine();
-            int count = 0;
+            String[] fields = new String[8];
+
+            int index = 0;
+
             while (line != null) {
-                if (line == "{" || line == "},") {
+                if (line.matches("[a-zA-Z\\s{},]+")) {
                     line = bf.readLine();
                 } else {
-                    String[] fields = line.split("\": ");
-                    // 0 = date 1 = numero 2 = messae 3 = numero
+                    if (line.matches(".*[\\[\\]].*")) {
+                        line = "";
+                    }
+                    line = line.replaceAll("\"", "");
+                    fields = line.split(": ");
+ 
                     for (String string : fields) {
                         System.out.println(string);
+
+                        index += 1;
                     }
 
-                    count++;
-                    if (count == 8) {
-                        // 1
-
-                        // reseto array
-                    }
+                    line = bf.readLine();
                 }
 
             }

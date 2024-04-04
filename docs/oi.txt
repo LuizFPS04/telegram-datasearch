@@ -1,1 +1,264 @@
-olá
+{
+    "message": [
+        {
+            "date": "2016-12-11T08:45:39+00:00",
+            "message_id": "4",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "www.mostdamagingwikileaks.com",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-11T08:45:39+00:00",
+            "message_id": "5",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "http://www.youtube.com/watch?v=5IuJGHuIkzY",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-11T08:45:39+00:00",
+            "message_id": "6",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "http://www.youtube.com/watch?v=hDc8PVCvfKs",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-11T08:45:39+00:00",
+            "message_id": "7",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "http://www.youtube.com/watch?v=_X16_KzX1vE",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-11T08:45:39+00:00",
+            "message_id": "8",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "http://www.youtube.com/watch?v=IdYRN8Clddw",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T03:34:19+00:00",
+            "message_id": "22",
+            "user_id": "178816193",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "There is a new top post on The_Donald, Title: PEPE WALKS. Go check it out here: https://www.reddit.com/r/The_Donald/comments/5i5rpd/pepe_walks/?utm_source=ifttt The Linked URL (if any) is: https://i.sli.mg/ggg4QH.png",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T03:43:08+00:00",
+            "message_id": "37",
+            "user_id": "170626957",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "https://twitter.com/realDonaldTrump/status/808837073423794176",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T03:49:06+00:00",
+            "message_id": "38",
+            "user_id": "170626957",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "https://twitter.com/realDonaldTrump/status/808881429715316737",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:23:33+00:00",
+            "message_id": "41",
+            "user_id": "47276041",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "Welcome",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:23:37+00:00",
+            "message_id": "42",
+            "user_id": "15240967",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "Hello",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:25:08+00:00",
+            "message_id": "43",
+            "user_id": "15240967",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "Have you gotten the free sticker?",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:25:18+00:00",
+            "message_id": "44",
+            "user_id": "47276041",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "which one",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:26:37+00:00",
+            "message_id": "46",
+            "user_id": "15240967",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "Via email subscription",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:26:47+00:00",
+            "message_id": "47",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "o",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:26:54+00:00",
+            "message_id": "48",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "where do i get one",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:26:59+00:00",
+            "message_id": "49",
+            "user_id": "47276041",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "nice",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:27:13+00:00",
+            "message_id": "50",
+            "user_id": "15240967",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "I can send you the link",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:27:40+00:00",
+            "message_id": "52",
+            "user_id": "15240967",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "https://action.trump2016.com/free-trump-supporter-sticker/?utm_medium=email&utm_campaign=ELC_elections-2016_free-trump-supporter-sticker&utm_content=121316-free-red-big-league-sticker-jfc-t-t-hf-e-1&utm_source=e_t-t",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:27:43+00:00",
+            "message_id": "53",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "o i just checked my email",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:27:46+00:00",
+            "message_id": "54",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "I got one too",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:27:52+00:00",
+            "message_id": "55",
+            "user_id": "15240967",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "Great",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:30:41+00:00",
+            "message_id": "56",
+            "user_id": "60585487",
+            "reply_to_message": "None",
+            "media": "no",
+            "text": "Yee",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T04:44:30+00:00",
+            "message_id": "57",
+            "user_id": "178816193",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "There is a new top post on The_Donald, Title: \"Taylor Swift and Kanye to perform at Trump inauguration\" - MEME THIS INTO REALITY!. Go check it out here: https://www.reddit.com/r/The_Donald/comments/5i5qny/taylor_swift_and_kanye_to_perform_at_trump/?utm_source=ifttt The Linked URL (if any) is: https://i.redd.it/ogml72hi2e3y.jpg",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T07:19:22+00:00",
+            "message_id": "58",
+            "user_id": "178816193",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "There is a new top post on The_Donald, Title: This year Santa will be sitting on The Donald's lap!. Go check it out here: https://www.reddit.com/r/The_Donald/comments/5i5eoz/this_year_santa_will_be_sitting_on_the_donalds_lap/?utm_source=ifttt The Linked URL (if any) is: https://i.sli.mg/x7x890.jpg",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T10:44:29+00:00",
+            "message_id": "60",
+            "user_id": "171638801",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "Here you can find all new weekly ads supermarkets in USAhttps://telegram.me/weeklyadsusa",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        },
+        {
+            "date": "2016-12-14T13:04:17+00:00",
+            "message_id": "62",
+            "user_id": "178816193",
+            "reply_to_message": "None",
+            "media": "unknown",
+            "text": "There is a new top post on The_Donald, Title: Spotted in Orlando: The MAGA-TRUCKA!. Go check it out here: https://www.reddit.com/r/The_Donald/comments/5i71re/spotted_in_orlando_the_magatrucka/?utm_source=ifttt The Linked URL (if any) is: https://i.redd.it/3vwdowaf5f3y.jpg",
+            "automatic_tag": "No_Tag",
+            "manual annotation": "n/a"
+        }
+    ]
+}
