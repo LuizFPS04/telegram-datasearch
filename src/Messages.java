@@ -1,15 +1,15 @@
 public class Messages {
 
     private String date;
-    private int messageID;
-    private int userID;
+    private String messageID;
+    private String userID;
     private String replyTo;
     private String media;
     private String text;
     private String automaticTag;
     private String manualAnotation;
-    
-    public Messages(String date, int messageID, int userID, String replyTo, String media, String text,
+
+    public Messages(String date, String messageID, String userID, String replyTo, String media, String text,
             String automaticTag, String manualAnotation) {
         this.date = date;
         this.messageID = messageID;
@@ -20,56 +20,72 @@ public class Messages {
         this.automaticTag = automaticTag;
         this.manualAnotation = manualAnotation;
     }
+
     public String getDate() {
         return date;
     }
+
     public void setDate(String date) {
         this.date = date;
     }
-    public int getMessageID() {
+
+    public String getMessageID() {
         return messageID;
     }
-    public void setMessageID(int messageID) {
+
+    public void setMessageID(String messageID) {
         this.messageID = messageID;
     }
-    public int getUserID() {
+
+    public String getUserID() {
         return userID;
     }
-    public void setUserID(int userID) {
+
+    public void setUserID(String userID) {
         this.userID = userID;
     }
+
     public String getReplyTo() {
         return replyTo;
     }
+
     public void setReplyTo(String replyTo) {
         this.replyTo = replyTo;
     }
+
     public String getMedia() {
         return media;
     }
+
     public void setMedia(String media) {
         this.media = media;
     }
+
     public String getText() {
         return text;
     }
+
     public void setText(String text) {
         this.text = text;
     }
+
     public String getAutomaticTag() {
         return automaticTag;
     }
+
     public void setAutomaticTag(String automaticTag) {
         this.automaticTag = automaticTag;
     }
+
     public String getManualAnotation() {
         return manualAnotation;
     }
+
     public void setManualAnotation(String manualAnotation) {
         this.manualAnotation = manualAnotation;
     }
 
-    public void showAll(){
+    public void showAll() {
         System.out.println("Date: " + date);
         System.out.println("Message ID: " + messageID);
         System.out.println("User ID: " + userID);
@@ -80,8 +96,4 @@ public class Messages {
         System.out.println("Manual Anotation: " + manualAnotation);
     }
 
-    
-
-
-    
 }

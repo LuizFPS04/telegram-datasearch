@@ -6,32 +6,37 @@ public class ArchiveReader {
     public static void ReadFile() {
         try {
             BufferedReader bf = new BufferedReader(new FileReader(
-                    "docs/oi.txt"));
+                    "docs/telegram_corpus.txt"));
             String line = bf.readLine();
             String[] fields = new String[8];
 
             int index = 0;
-
             while (line != null) {
                 if (line.matches("[a-zA-Z\\s{},]+")) {
                     line = bf.readLine();
                 } else {
                     if (line.matches(".*[\\[\\]].*")) {
-                        line = "";
-                    }
-                    line = line.replaceAll("\"", "");
-                    fields = line.split(": ");
- 
-                    for (String string : fields) {
-                        System.out.println(string);
+                        line = bf.readLine();
+                    } else {
+                        line = line.replaceAll("\"", "");
+                        String[] momentaneo = line.split(": ");
+                        fields[index] = momentaneo[1];
 
-                        index += 1;
+                        index++;
+                        if (index == 8) {
+                            Messages messages = new Messages(fields[0], fields[0], fields[0], fields[0], fields[0],
+                                    fields[0], fields[0], fields[0]);
+                            messages.showAll();
+                            index = 0;
+                            System.out.println("==============================");
+                        }
+                        line = bf.readLine();
                     }
 
-                    line = bf.readLine();
                 }
 
             }
+
         } catch (Exception e) {
             e.printStackTrace();
 
