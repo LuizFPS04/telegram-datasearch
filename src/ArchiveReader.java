@@ -1,8 +1,17 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
+/**
+ * 
+ * Classe responsável para leitura do arquivo .TXT
+ * 
+ */
 
 public class ArchiveReader {
+    /**
+     * Método responsável por separar o arquivo linha a linha e separá-lo em um
+     * vetor
+     */
     public static void ReadFile() {
         try {
             BufferedReader bf = new BufferedReader(new FileReader(
